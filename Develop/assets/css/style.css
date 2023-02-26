@@ -59,7 +59,7 @@ p {
     background-position: center;
 } .social-media-marketing img, .online-reputation-management img, .search-engine-optimization img{
     max-height: 200px;
-}
+} /* I combined these three class images into one selector because they have the same requirements */
 .social-media-marketing, .online-reputation-management, .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -67,7 +67,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;}
-
+ /* I combined these three classes into one selector because they have the same requirements */
  .social-media-marketing h2,  {
         margin-bottom: 20px;
         font-size: 36px;}
@@ -96,21 +96,21 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+div> benefit-lead+benefit-brand+benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} /* I combined these three classes into one selector because they have the same requirements */
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+}  /* I combined these three class headers into one selector because they have the same requirements */
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+}  /* I combined these three class images into one selector because they have the same requirements */
 
 .footer {
     padding: 30px;
