@@ -38,3 +38,21 @@ Repository contains a quality README file with description, screenshot, and link
 
 I did add alt descriptions for the images; however, for the background image I had to use an aria-label- the alt description would not work. I also had some trouble combining the CSS selectors. I tried quite a few different ways, but then I followed what I found on the W3 website. I added HTML semantics to the index because the file had non-describitive elements. 
 
+![image](https://user-images.githubusercontent.com/125601940/221660000-2a16c9bd-6771-4a0e-8878-a3ac7670682e.png)
+https://djr719.github.io/updated-accessibility-horiseon/
+
+References
+https://stackoverflow.com/questions/48919200/github-pages-only-showing-readme-file#:~:text=To%20summer%20up%2C%20if%20your,and%20use%20that%20as%20main.
+https://stackoverflow.com/questions/48919200/github-pages-only-showing-readme-file#:~:text=To%20summer%20up%2C%20if%20your,and%20use%20that%20as%20main.
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing
+https://stackoverflow.com/questions/43263268/combining-elements-in-css
+https://www.w3schools.com/tags/tag_main.asp
+https://www.w3schools.com/css/css_combinators.asp
+https://www.w3schools.com/html/html5_semantic_elements.asp
+https://www.w3schools.com/howto/default.asp
+https://www.w3schools.com/css/css_attribute_selectors.asp
+https://www.w3schools.com/css/css_comments.asp
+https://www.w3schools.com/css/css_syntax.asp
+https://www.w3schools.com/css/default.asp
+https://www.w3schools.com/css/css_padding.asp
+https://www.w3schools.com/css/css_howto.asp
