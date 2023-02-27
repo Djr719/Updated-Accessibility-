@@ -36,5 +36,4 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.
 Repository contains a quality README file with description, screenshot, and link to deployed application.
 
-I did add alt descriptions for the images; however, for the background image I had to use an aria-label- the alt description would not work. I also had some trouble combining the CSS selectors. I tried quite a few different ways, but then I followed what I found on the W3 website. I added HTML semantics to the index because the file had non-describitive elements. 
-
+I did add alt descriptions for the images; however, for the background image I had to use an aria-label- the alt description would not work. I also had some trouble combining the CSS selectors. I tried quite a few different ways, but then I followed what I found on the W3 website. I added HTML semantics to the index because the file had non-describitive elemennts. 
