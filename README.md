@@ -1,6 +1,6 @@
 For this project we were tasked with helping a marketing company make their website compliant with accessibility standards and to make it optimized with search engines. 
 
-THe project was complete when the following acceptance criteria was met:
+THE project was complete when the following acceptance criteria was met:
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -36,7 +36,7 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.
 Repository contains a quality README file with description, screenshot, and link to deployed application.
 
-I did add alt descriptions for the images; however, for the background image I had to use an aria-label- the alt description would not work. I also had some trouble combining the CSS selectors. I tried quite a few different ways, but then I followed what I found on the W3 website. I added HTML semantics to the index because the file had non-describitive elements. 
+I added alt descriptions for the images; however, for the background image I had to use an aria-label- the alt description would not work. I also had some trouble combining the CSS selectors. I tried quite a few different ways, but then I followed what I found on the W3 website. I added HTML semantics to the index because the file had non-describitive elements. I also reordered the files because the README.md kept loading instead of the index when I first deployed the site. 
 
 ![image](https://user-images.githubusercontent.com/125601940/221661808-1cb212e9-f663-4243-8983-e197a6cac3e4.png)
 https://djr719.github.io/updated-accessibility-horiseon/
