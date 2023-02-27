@@ -38,7 +38,7 @@ Repository contains a quality README file with description, screenshot, and link
 
 I did add alt descriptions for the images; however, for the background image I had to use an aria-label- the alt description would not work. I also had some trouble combining the CSS selectors. I tried quite a few different ways, but then I followed what I found on the W3 website. I added HTML semantics to the index because the file had non-describitive elements. 
 
-![image](https://user-images.githubusercontent.com/125601940/221660000-2a16c9bd-6771-4a0e-8878-a3ac7670682e.png)
+![image](https://user-images.githubusercontent.com/125601940/221661808-1cb212e9-f663-4243-8983-e197a6cac3e4.png)
 https://djr719.github.io/updated-accessibility-horiseon/
 
 References
