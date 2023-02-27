@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+figcaption ={Marketing group collaborating}
 .hero {
     height: 800px;
     width: 100%;
@@ -60,7 +60,7 @@ p {
 } .social-media-marketing img, .online-reputation-management img, .search-engine-optimization img{
     max-height: 200px;
 } /* I combined these three class images into one selector because they have the same requirements */
-.social-media-marketing,.online-reputation-management, .search-engine-optimization {
+.social-media-marketing,.online-reputation-management,.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -68,7 +68,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;}
  /* I combined these three classes into one selector because they have the same requirements */
- .social-media-marketing h2,  {
+ .social-media-marketing h2,.search-engine-optimization h2,.online-reputation-management h2,  {
         margin-bottom: 20px;
         font-size: 36px;}
 
@@ -79,13 +79,14 @@ p {
 .float-right {
     float: right;
     margin-right: 25px;}
-.content {
+
+main.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+aside.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -96,7 +97,7 @@ p {
     background-color: #2589bd;
 }
 
-aside {
+.search-engine-optimization, .social-media-marketing,.online-reputation-management {
     margin-bottom: 32px;
     color: #ffffff;
 } /* I combined these three classes into one selector because they have the same requirements */
